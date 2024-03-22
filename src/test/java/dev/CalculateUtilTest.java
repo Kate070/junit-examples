@@ -31,4 +31,6 @@ class CalculateUtilTest {
 
         assertEquals(expectedResult, actualResult);
     }
+
+    //Написать тесты на сумму с параметрами с помощью аннотации CsvSource - 2 слагаемых и сумм (а,b, sum) - 3-4 набора параметров
 }
